@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @fais23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+∆ pkg update && upgrade
 
-<!---
-fais23/fais23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+∆ pkg install git
+
+∆ pkg install python2
+
+∆ pip2 install requests
+
+∆ pip2 install mechanize
+
+∆ pip2 install bs4
+
+∆ git clone https://github.com/fais23/FAIS_GANS
+
+∆ cd FAIS_GANS
+
+∆ python2 FAIS_GANS.py
