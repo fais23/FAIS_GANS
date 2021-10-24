@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-fais23/fais23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+fais23/FAIS_GANS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click  the Preview link to take a look at your changes.
 --->
